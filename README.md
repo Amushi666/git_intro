@@ -1,0 +1,1 @@
+This is amushi666's first git project!
